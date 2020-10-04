@@ -62,4 +62,4 @@ bot.on("ready", async () => {
 
 
 
-bot.login("NzQyMzcxMzQyNDc2NzcxMzc4.XzFJMA._SfLZhbX_6AGkBPpcnWiJna0JcE");
+bot.login("insert_token");
